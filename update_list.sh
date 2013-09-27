@@ -4,3 +4,4 @@ articles=`cat *.bib | grep '^\s*title' | sed -E 's/^ *title *= *{(.+)}.*$/* \1/'
 n=`echo "$articles" | wc -l | sed 's/ //g'`
 echo "## $n articles" >> README.md
 echo "$articles" >> README.md
+git add README.md
