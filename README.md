@@ -7,7 +7,7 @@ After adding your references, run
 
     $ ./update_list.sh
 
-and check for duplicates in the list below.
+and check for duplicates in your local README.md.
 Then commit and push.
 
 ## 20 articles
