@@ -1,6 +1,6 @@
 #!/bin/sh
 git checkout 7f3fc7a README.md
-articles=`cat *.bib | sed -e 's/^ *//'| grep '^\title' | sed -E 's/^ *title *= *{(.+)}.*$/* \1/' | sort`
+articles=`cat *.bib | perl -nle 'print "* $1" if /^\s*title\s*=\s*\{(.+)\}\s*,\s*$/' | sort`
 n=`echo "$articles" | wc -l | sed 's/ //g'`
 echo "## $n articles" >> README.md
 echo "$articles" >> README.md
