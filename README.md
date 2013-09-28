@@ -54,4 +54,3 @@ Then commit and push.
 * Towards secure and dependable software-defined networks
 * VeriFlow: verifying network-wide invariants in real time
 * Where is the debugger for my software-defined network?
-* 
