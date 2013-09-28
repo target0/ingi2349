@@ -10,10 +10,11 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-## 43 articles
+## 48 articles
 * A network in a laptop: rapid prototyping for software-defined networks
 * A NICE way to test openflow applications
 * A Slick Control Plane for Network Middleboxes
+* Attacking Software-Defined Networks: A First Feasibility Study
 * Automatic failure recovery for software-defined networks
 * Can the production network be the testbed?
 * Composing software-defined networks
@@ -34,9 +35,11 @@ Then commit and push.
 * Leveraging SDN Layering to Systematically Troubleshoot Networks
 * On Bringing Private Traffic into Public SDN Testbeds
 * OpenFlow: enabling innovation in campus networks
+* OpenFlow Vulnerability Assessment
 * Open transport switch: a software defined networking architecture for transport networks
 * Parallel simulation of software defined networks
 * Protocol Oblivious Forwarding: Unleash the Power of SDN through a Future-Proof Forwarding Plane
+* Resource/Accuracy Tradeoffs in Software-Defined Measurement
 * Revisiting routing control platforms with the eyes and muscles of software-defined networking
 * Scalable Network Virtualization in Software-Defined Networks
 * Scalable service deployment on software-defined networks
@@ -51,6 +54,8 @@ Then commit and push.
 * The power of software-defined networking: line-rate content-based routing using OpenFlow
 * Time-based updates in software defined networks
 * Towards A Secure Controller Platform for OpenFlow Applications
+* Towards an Elastic Distributed SDN Controller
+* Towards Efficient Implementation of Packet Classifiers in SDN/OpenFlow
 * Towards secure and dependable software-defined networks
 * VeriFlow: verifying network-wide invariants in real time
 * Where is the debugger for my software-defined network?
