@@ -10,7 +10,7 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-## 69 articles
+## 70 articles
 * A network in a laptop: rapid prototyping for software-defined networks
 * A NICE way to test openflow applications
 * Application-awareness in SDN
@@ -51,6 +51,7 @@ Then commit and push.
 * OpenFlow vulnerability assessment
 * Open transport switch: a software defined networking architecture for transport networks
 * Parallel simulation of software defined networks
+* Procera: a language for high-level reactive network control
 * Protocol-oblivious forwarding: unleash the power of SDN through a future-proof forwarding plane
 * Resource/accuracy tradeoffs in software-defined measurement
 * Revisiting routing control platforms with the eyes and muscles of software-defined networking
