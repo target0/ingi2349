@@ -10,12 +10,8 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-<<<<<<< HEAD
-## 63 articles
-=======
-## 66 articles
+## 67 articles
 * A NICE way to test openflow applications
->>>>>>> eefc3601d1d54a05769b47fcb99fc0dbba4189d3
 * A network in a laptop: rapid prototyping for software-defined networks
 * A slick control plane for network middleboxes
 * Attacking software-defined networks: a first feasibility study
@@ -24,17 +20,10 @@ Then commit and push.
 * Cheap silicon: a myth or reality? picking the right data plane hardware for software defined networking
 * Composing software-defined networks
 * Design and implementation of a framework for software-defined middlebox networking
-<<<<<<< HEAD
-* Enabling fast failure recovery in openflow networks
-* Enabling Future Internet Architecture Research and Experimentation by Using Software Defined Networking
-* Enabling Hardware Exploration in Software-Defined Networking: A Flexible, Portable OpenFlow Switch
-* ETTM: a scalable fault tolerant network manager
-=======
 * ETTM: a scalable fault tolerant network manager
 * Enabling Future Internet Architecture Research and Experimentation by Using Software Defined Networking
 * Enabling Hardware Exploration in Software-Defined Networking: A Flexible, Portable OpenFlow Switch
 * Enabling fast failure recovery in openflow networks
->>>>>>> eefc3601d1d54a05769b47fcb99fc0dbba4189d3
 * Exploiting locality in distributed SDN control
 * Fabric: a retrospective on evolving SDN
 * Fast, accurate simulation for SDN prototyping
@@ -50,27 +39,21 @@ Then commit and push.
 * Incremental consistent updates
 * Leveraging SDN layering to systematically troubleshoot networks
 * Logically centralized?: state distribution trade-offs in software defined networks
-* Logically centralized?: state distribution trade-offs in software defined networks
+* Maple: simplifying SDN programming using algorithmic policies
 * NOX: towards an operating system for networks
 * On bringing private traffic into public SDN testbeds
-<<<<<<< HEAD
-* OpenFlow: enabling innovation in campus networks
-* OpenFlow: Meeting carrier-grade recovery requirements
-* OpenFlow MPLS and the open source label switched router
-* OpenFlow vulnerability assessment
-* Open transport switch: a software defined networking architecture for transport networks
-=======
 * On controller performance in software-defined networks
 * Open transport switch: a software defined networking architecture for transport networks
+* OpenFlow MPLS and the open source label switched router
 * OpenFlow vulnerability assessment
 * OpenFlow: Meeting carrier-grade recovery requirements
 * OpenFlow: enabling innovation in campus networks
->>>>>>> eefc3601d1d54a05769b47fcb99fc0dbba4189d3
 * Parallel simulation of software defined networks
 * Protocol-oblivious forwarding: unleash the power of SDN through a future-proof forwarding plane
 * Resource/accuracy tradeoffs in software-defined measurement
 * Revisiting routing control platforms with the eyes and muscles of software-defined networking
 * Revisiting traffic anomaly detection using software defined networking
+* SDN Based Unified Control Architecture
 * Scalable Network Virtualization in Software-Defined Networks
 * Scalable service deployment on software-defined networks
 * Scalable software defined network controllers
