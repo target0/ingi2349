@@ -10,7 +10,7 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-## 76 articles
+## 77 articles
 * A network in a laptop: rapid prototyping for software-defined networks
 * A NICE way to test openflow applications
 * An OpenFlow-based energy-efficient data center approach
@@ -79,6 +79,7 @@ Then commit and push.
 * Time-based updates in software defined networks
 * Towards an elastic distributed SDN controller
 * Towards a secure controller platform for openflow applications
+* Towards Cloud-assisted Software-defined Networking
 * Towards efficient implementation of packet classifiers in SDN/OpenFlow
 * Towards programmable enterprise WLANS with Odin
 * Towards secure and dependable software-defined networks
