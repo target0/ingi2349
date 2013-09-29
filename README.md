@@ -10,7 +10,7 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-## 77 articles
+## 78 articles
 * A network in a laptop: rapid prototyping for software-defined networks
 * A NICE way to test openflow applications
 * An OpenFlow-based energy-efficient data center approach
@@ -71,6 +71,7 @@ Then commit and push.
 * Software-Defined Networking: Experimenting with the Control to Forwarding Plane Interface
 * Software-Defined Networking: On the Verge of a Breakthrough?
 * Software-Defined Network (SDN) Problem Statement and Use Cases for Data Center Applications
+* Software Defined Network Support for Real Distributed Systems
 * Software defined traffic measurement with OpenSketch
 * Software-defined underwater acoustic networking platform
 * The case for software-defined networking in heterogeneous networked environments
