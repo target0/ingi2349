@@ -10,7 +10,7 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-## 53 articles
+## 56 articles
 * A NICE way to test openflow applications
 * A network in a laptop: rapid prototyping for software-defined networks
 * A slick control plane for network middleboxes
@@ -36,6 +36,7 @@ Then commit and push.
 * Incremental consistent updates
 * Leveraging SDN layering to systematically troubleshoot networks
 * On bringing private traffic into public SDN testbeds
+* On controller performance in software-defined networks
 * Open transport switch: a software defined networking architecture for transport networks
 * OpenFlow vulnerability assessment
 * OpenFlow: enabling innovation in campus networks
@@ -47,6 +48,7 @@ Then commit and push.
 * Scalable Network Virtualization in Software-Defined Networks
 * Scalable service deployment on software-defined networks
 * Scalable software defined network controllers
+* Software defined traffic measurement with OpenSketch
 * Software-Defined Network (SDN) Problem Statement and Use Cases for Data Center Applications
 * Software-Defined Networking Could Shake Up More than Packets
 * Software-Defined Networking: Experimenting with the Control to Forwarding Plane Interface
@@ -61,6 +63,7 @@ Then commit and push.
 * Towards an elastic distributed SDN controller
 * Towards efficient implementation of packet classifiers in SDN/OpenFlow
 * Towards secure and dependable software-defined networks
+* Towards software-friendly networks
 * VeriFlow: verifying network-wide invariants in real time
 * Where is the debugger for my software-defined network?
 * Why OpenFlow/SDN can succeed where GMPLS failed
