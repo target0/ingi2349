@@ -10,7 +10,7 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-## 78 articles
+## 81 articles
 * A network in a laptop: rapid prototyping for software-defined networks
 * A NICE way to test openflow applications
 * An OpenFlow-based energy-efficient data center approach
@@ -41,6 +41,8 @@ Then commit and push.
 * High-fidelity switch models for software-defined network emulation
 * HotSwap: correct and efficient controller upgrades for software-defined networks
 * Implementing an OpenFlow switch on the NetFPGA platform
+* Implementing Layer 2 Network Virtualization Using OpenFlow: Challenges and Solutions
+* Improving network management with software defined networking
 * Incremental consistent updates
 * Leveraging SDN layering to systematically troubleshoot networks
 * Logically centralized?: state distribution trade-offs in software defined networks
@@ -87,5 +89,6 @@ Then commit and push.
 * Towards software-friendly networks
 * VeriFlow: verifying network-wide invariants in real time
 * Verifying forwarding plane connectivity and locating link failures using static rules in software defined networks
+* Virtual routers as a service: the RouteFlow approach leveraging software-defined networks
 * Where is the debugger for my software-defined network?
 * Why OpenFlow/SDN can succeed where GMPLS failed
