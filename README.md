@@ -10,9 +10,9 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-## 53 articles
-* A NICE way to test openflow applications
+## 57 articles
 * A network in a laptop: rapid prototyping for software-defined networks
+* A NICE way to test openflow applications
 * A slick control plane for network middleboxes
 * Attacking software-defined networks: a first feasibility study
 * Automatic failure recovery for software-defined networks
@@ -20,9 +20,9 @@ Then commit and push.
 * Cheap silicon: a myth or reality? picking the right data plane hardware for software defined networking
 * Composing software-defined networks
 * Design and implementation of a framework for software-defined middlebox networking
-* ETTM: a scalable fault tolerant network manager
 * Enabling Future Internet Architecture Research and Experimentation by Using Software Defined Networking
 * Enabling Hardware Exploration in Software-Defined Networking: A Flexible, Portable OpenFlow Switch
+* ETTM: a scalable fault tolerant network manager
 * Exploiting locality in distributed SDN control
 * Fabric: a retrospective on evolving SDN
 * Fast, accurate simulation for SDN prototyping
@@ -31,34 +31,38 @@ Then commit and push.
 * Formal specifications for software-defined networking
 * Frenetic: a network programming language
 * Global network modelling based on mininet approach.
+* Hierarchical policies for software defined networks
+* High-fidelity switch models for software-defined network emulation
 * HotSwap: correct and efficient controller upgrades for software-defined networks
 * Implementing an OpenFlow switch on the NetFPGA platform
 * Incremental consistent updates
 * Leveraging SDN layering to systematically troubleshoot networks
+* Logically centralized?: state distribution trade-offs in software defined networks
+* NOX: towards an operating system for networks
 * On bringing private traffic into public SDN testbeds
-* Open transport switch: a software defined networking architecture for transport networks
-* OpenFlow vulnerability assessment
 * OpenFlow: enabling innovation in campus networks
+* OpenFlow vulnerability assessment
+* Open transport switch: a software defined networking architecture for transport networks
 * Parallel simulation of software defined networks
 * Protocol-oblivious forwarding: unleash the power of SDN through a future-proof forwarding plane
 * Resource/accuracy tradeoffs in software-defined measurement
 * Revisiting routing control platforms with the eyes and muscles of software-defined networking
-* SDN Based Unified Control Architecture
 * Scalable Network Virtualization in Software-Defined Networks
 * Scalable service deployment on software-defined networks
 * Scalable software defined network controllers
-* Software-Defined Network (SDN) Problem Statement and Use Cases for Data Center Applications
+* SDN Based Unified Control Architecture
+* Software-defined networking
 * Software-Defined Networking Could Shake Up More than Packets
 * Software-Defined Networking: Experimenting with the Control to Forwarding Plane Interface
 * Software-Defined Networking: On the Verge of a Breakthrough?
-* Software-defined networking
+* Software-Defined Network (SDN) Problem Statement and Use Cases for Data Center Applications
 * Software-defined underwater acoustic networking platform
 * The case for software-defined networking in heterogeneous networked environments
 * The controller placement problem
 * The power of software-defined networking: line-rate content-based routing using OpenFlow
 * Time-based updates in software defined networks
-* Towards a secure controller platform for openflow applications
 * Towards an elastic distributed SDN controller
+* Towards a secure controller platform for openflow applications
 * Towards efficient implementation of packet classifiers in SDN/OpenFlow
 * Towards secure and dependable software-defined networks
 * VeriFlow: verifying network-wide invariants in real time
