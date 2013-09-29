@@ -10,17 +10,21 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-## 70 articles
+## 75 articles
 * A network in a laptop: rapid prototyping for software-defined networks
 * A NICE way to test openflow applications
+* An OpenFlow-based energy-efficient data center approach
 * Application-awareness in SDN
+* ASIC: an architecture for scalable intra-domain control in OpenFlow
 * A slick control plane for network middleboxes
+* A SOFT way for openflow switch interoperability testing
 * Attacking software-defined networks: a first feasibility study
 * Automatic failure recovery for software-defined networks
 * Can the production network be the testbed?
 * Cheap silicon: a myth or reality? picking the right data plane hardware for software defined networking
 * Composing software-defined networks
 * Design and implementation of a framework for software-defined middlebox networking
+* Design and implementation of application based routing using OpenFlow
 * Enabling fast failure recovery in openflow networks
 * Enabling Future Internet Architecture Research and Experimentation by Using Software Defined Networking
 * Enabling Hardware Exploration in Software-Defined Networking: A Flexible, Portable OpenFlow Switch
@@ -44,6 +48,7 @@ Then commit and push.
 * NOX: towards an operating system for networks
 * On bringing private traffic into public SDN testbeds
 * On controller performance in software-defined networks
+* OpenFlow-based server load balancing gone wild
 * OpenFlow: enabling innovation in campus networks
 * OpenFlow: Meeting carrier-grade recovery requirements
 * OpenFlow MPLS and the open source label switched router
