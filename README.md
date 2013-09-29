@@ -10,13 +10,9 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-<<<<<<< HEAD
-## 63 articles
-=======
-## 66 articles
-* A NICE way to test openflow applications
->>>>>>> eefc3601d1d54a05769b47fcb99fc0dbba4189d3
+## 67 articles
 * A network in a laptop: rapid prototyping for software-defined networks
+* A NICE way to test openflow applications
 * A slick control plane for network middleboxes
 * Attacking software-defined networks: a first feasibility study
 * Automatic failure recovery for software-defined networks
@@ -24,17 +20,10 @@ Then commit and push.
 * Cheap silicon: a myth or reality? picking the right data plane hardware for software defined networking
 * Composing software-defined networks
 * Design and implementation of a framework for software-defined middlebox networking
-<<<<<<< HEAD
 * Enabling fast failure recovery in openflow networks
 * Enabling Future Internet Architecture Research and Experimentation by Using Software Defined Networking
 * Enabling Hardware Exploration in Software-Defined Networking: A Flexible, Portable OpenFlow Switch
 * ETTM: a scalable fault tolerant network manager
-=======
-* ETTM: a scalable fault tolerant network manager
-* Enabling Future Internet Architecture Research and Experimentation by Using Software Defined Networking
-* Enabling Hardware Exploration in Software-Defined Networking: A Flexible, Portable OpenFlow Switch
-* Enabling fast failure recovery in openflow networks
->>>>>>> eefc3601d1d54a05769b47fcb99fc0dbba4189d3
 * Exploiting locality in distributed SDN control
 * Fabric: a retrospective on evolving SDN
 * Fast, accurate simulation for SDN prototyping
@@ -53,19 +42,12 @@ Then commit and push.
 * Logically centralized?: state distribution trade-offs in software defined networks
 * NOX: towards an operating system for networks
 * On bringing private traffic into public SDN testbeds
-<<<<<<< HEAD
+* On controller performance in software-defined networks
 * OpenFlow: enabling innovation in campus networks
 * OpenFlow: Meeting carrier-grade recovery requirements
 * OpenFlow MPLS and the open source label switched router
 * OpenFlow vulnerability assessment
 * Open transport switch: a software defined networking architecture for transport networks
-=======
-* On controller performance in software-defined networks
-* Open transport switch: a software defined networking architecture for transport networks
-* OpenFlow vulnerability assessment
-* OpenFlow: Meeting carrier-grade recovery requirements
-* OpenFlow: enabling innovation in campus networks
->>>>>>> eefc3601d1d54a05769b47fcb99fc0dbba4189d3
 * Parallel simulation of software defined networks
 * Protocol-oblivious forwarding: unleash the power of SDN through a future-proof forwarding plane
 * Resource/accuracy tradeoffs in software-defined measurement
@@ -74,19 +56,20 @@ Then commit and push.
 * Scalable Network Virtualization in Software-Defined Networks
 * Scalable service deployment on software-defined networks
 * Scalable software defined network controllers
-* Software defined traffic measurement with OpenSketch
-* Software-Defined Network (SDN) Problem Statement and Use Cases for Data Center Applications
+* SDN Based Unified Control Architecture
+* Software-defined networking
 * Software-Defined Networking Could Shake Up More than Packets
 * Software-Defined Networking: Experimenting with the Control to Forwarding Plane Interface
 * Software-Defined Networking: On the Verge of a Breakthrough?
-* Software-defined networking
+* Software-Defined Network (SDN) Problem Statement and Use Cases for Data Center Applications
+* Software defined traffic measurement with OpenSketch
 * Software-defined underwater acoustic networking platform
 * The case for software-defined networking in heterogeneous networked environments
 * The controller placement problem
 * The power of software-defined networking: line-rate content-based routing using OpenFlow
 * Time-based updates in software defined networks
-* Towards a secure controller platform for openflow applications
 * Towards an elastic distributed SDN controller
+* Towards a secure controller platform for openflow applications
 * Towards efficient implementation of packet classifiers in SDN/OpenFlow
 * Towards programmable enterprise WLANS with Odin
 * Towards secure and dependable software-defined networks
