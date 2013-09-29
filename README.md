@@ -10,7 +10,7 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-## 68 articles
+## 69 articles
 * A network in a laptop: rapid prototyping for software-defined networks
 * A NICE way to test openflow applications
 * Application-awareness in SDN
@@ -47,6 +47,7 @@ Then commit and push.
 * OpenFlow: enabling innovation in campus networks
 * OpenFlow: Meeting carrier-grade recovery requirements
 * OpenFlow MPLS and the open source label switched router
+* OpenFlow: The Next Generation of the Network?
 * OpenFlow vulnerability assessment
 * Open transport switch: a software defined networking architecture for transport networks
 * Parallel simulation of software defined networks
