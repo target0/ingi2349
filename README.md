@@ -10,9 +10,10 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-## 67 articles
+## 68 articles
 * A network in a laptop: rapid prototyping for software-defined networks
 * A NICE way to test openflow applications
+* Application-awareness in SDN
 * A slick control plane for network middleboxes
 * Attacking software-defined networks: a first feasibility study
 * Automatic failure recovery for software-defined networks
@@ -39,7 +40,7 @@ Then commit and push.
 * Incremental consistent updates
 * Leveraging SDN layering to systematically troubleshoot networks
 * Logically centralized?: state distribution trade-offs in software defined networks
-* Logically centralized?: state distribution trade-offs in software defined networks
+* Maple: simplifying SDN programming using algorithmic policies
 * NOX: towards an operating system for networks
 * On bringing private traffic into public SDN testbeds
 * On controller performance in software-defined networks
