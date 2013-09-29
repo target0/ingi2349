@@ -11,12 +11,13 @@ and check for duplicates in the list below.
 Then commit and push.
 
 ## 82 articles
+* Abstractions for network update
+* A compiler and run-time system for network programming languages
 * A network in a laptop: rapid prototyping for software-defined networks
 * A NICE way to test openflow applications
 * An OpenFlow-based energy-efficient data center approach
 * Application-awareness in SDN
 * ASIC: an architecture for scalable intra-domain control in OpenFlow
-* A slick control plane for network middleboxes
 * A SOFT way for openflow switch interoperability testing
 * Attacking software-defined networks: a first feasibility study
 * Automatic failure recovery for software-defined networks
@@ -25,6 +26,7 @@ Then commit and push.
 * Composing software-defined networks
 * Design and implementation of a framework for software-defined middlebox networking
 * Design and implementation of application based routing using OpenFlow
+* DevoFlow: scaling flow management for high-performance networks
 * Enabling fast failure recovery in openflow networks
 * Enabling Future Internet Architecture Research and Experimentation by Using Software Defined Networking
 * Enabling Hardware Exploration in Software-Defined Networking: A Flexible, Portable OpenFlow Switch
@@ -44,13 +46,11 @@ Then commit and push.
 * Implementing an OpenFlow switch on the NetFPGA platform
 * Implementing Layer 2 Network Virtualization Using OpenFlow: Challenges and Solutions
 * Improving network management with software defined networking
-* Incremental consistent updates
-* Leveraging SDN layering to systematically troubleshoot networks
 * Logically centralized?: state distribution trade-offs in software defined networks
 * Logic programming for software-defined networks
 * Maple: simplifying SDN programming using algorithmic policies
+* Modeling and performance evaluation of an OpenFlow architecture
 * NOX: towards an operating system for networks
-* On bringing private traffic into public SDN testbeds
 * On controller performance in software-defined networks
 * OpenFlow-based server load balancing gone wild
 * OpenFlow: enabling innovation in campus networks
@@ -60,8 +60,8 @@ Then commit and push.
 * OpenFlow vulnerability assessment
 * Open transport switch: a software defined networking architecture for transport networks
 * Parallel simulation of software defined networks
+* Participatory networking: an API for application control of SDNs
 * Procera: a language for high-level reactive network control
-* Protocol-oblivious forwarding: unleash the power of SDN through a future-proof forwarding plane
 * Resource/accuracy tradeoffs in software-defined measurement
 * Revisiting routing control platforms with the eyes and muscles of software-defined networking
 * Revisiting traffic anomaly detection using software defined networking
@@ -72,6 +72,7 @@ Then commit and push.
 * Software-defined networking
 * Software-Defined Networking Could Shake Up More than Packets
 * Software-Defined Networking: Experimenting with the Control to Forwarding Plane Interface
+* Software defined networking: Meeting carrier grade requirements
 * Software-Defined Networking: On the Verge of a Breakthrough?
 * Software-Defined Network (SDN) Problem Statement and Use Cases for Data Center Applications
 * Software Defined Network Support for Real Distributed Systems
@@ -82,7 +83,6 @@ Then commit and push.
 * The power of software-defined networking: line-rate content-based routing using OpenFlow
 * Time-based updates in software defined networks
 * Towards an elastic distributed SDN controller
-* Towards a secure controller platform for openflow applications
 * Towards Cloud-assisted Software-defined Networking
 * Towards efficient implementation of packet classifiers in SDN/OpenFlow
 * Towards programmable enterprise WLANS with Odin
