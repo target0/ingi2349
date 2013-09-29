@@ -10,7 +10,7 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-## 81 articles
+## 82 articles
 * A network in a laptop: rapid prototyping for software-defined networks
 * A NICE way to test openflow applications
 * An OpenFlow-based energy-efficient data center approach
@@ -34,6 +34,7 @@ Then commit and push.
 * Fast, accurate simulation for SDN prototyping
 * FatTire: Declarative Fault Tolerance for Software-Defined Networks
 * Flowvisor: A network virtualization layer
+* Formal Modeling and Verification of SDN-OpenFlow
 * Formal specifications for software-defined networking
 * Frenetic: a network programming language
 * Global network modelling based on mininet approach.
