@@ -10,10 +10,11 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-## 67 articles
+## 68 articles
 * A NICE way to test openflow applications
 * A network in a laptop: rapid prototyping for software-defined networks
 * A slick control plane for network middleboxes
+* Application-awareness in SDN
 * Attacking software-defined networks: a first feasibility study
 * Automatic failure recovery for software-defined networks
 * Can the production network be the testbed?
