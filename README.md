@@ -10,7 +10,7 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-## 56 articles
+## 58 articles
 * A NICE way to test openflow applications
 * A network in a laptop: rapid prototyping for software-defined networks
 * A slick control plane for network middleboxes
@@ -23,6 +23,7 @@ Then commit and push.
 * ETTM: a scalable fault tolerant network manager
 * Enabling Future Internet Architecture Research and Experimentation by Using Software Defined Networking
 * Enabling Hardware Exploration in Software-Defined Networking: A Flexible, Portable OpenFlow Switch
+* Enabling fast failure recovery in openflow networks
 * Exploiting locality in distributed SDN control
 * Fabric: a retrospective on evolving SDN
 * Fast, accurate simulation for SDN prototyping
@@ -36,19 +37,19 @@ Then commit and push.
 * Incremental consistent updates
 * Leveraging SDN layering to systematically troubleshoot networks
 * On bringing private traffic into public SDN testbeds
-* On controller performance in software-defined networks
 * Open transport switch: a software defined networking architecture for transport networks
 * OpenFlow vulnerability assessment
+* OpenFlow: Meeting carrier-grade recovery requirements
 * OpenFlow: enabling innovation in campus networks
 * Parallel simulation of software defined networks
 * Protocol-oblivious forwarding: unleash the power of SDN through a future-proof forwarding plane
 * Resource/accuracy tradeoffs in software-defined measurement
 * Revisiting routing control platforms with the eyes and muscles of software-defined networking
+* Revisiting traffic anomaly detection using software defined networking
 * SDN Based Unified Control Architecture
 * Scalable Network Virtualization in Software-Defined Networks
 * Scalable service deployment on software-defined networks
 * Scalable software defined network controllers
-* Software defined traffic measurement with OpenSketch
 * Software-Defined Network (SDN) Problem Statement and Use Cases for Data Center Applications
 * Software-Defined Networking Could Shake Up More than Packets
 * Software-Defined Networking: Experimenting with the Control to Forwarding Plane Interface
@@ -62,8 +63,9 @@ Then commit and push.
 * Towards a secure controller platform for openflow applications
 * Towards an elastic distributed SDN controller
 * Towards efficient implementation of packet classifiers in SDN/OpenFlow
+* Towards programmable enterprise WLANS with Odin
 * Towards secure and dependable software-defined networks
-* Towards software-friendly networks
 * VeriFlow: verifying network-wide invariants in real time
+* Verifying forwarding plane connectivity and locating link failures using static rules in software defined networks
 * Where is the debugger for my software-defined network?
 * Why OpenFlow/SDN can succeed where GMPLS failed
