@@ -10,7 +10,7 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-## 95 articles
+## 92 articles
 * Abstractions for network update
 * A compiler and run-time system for network programming languages
 * A network in a laptop: rapid prototyping for software-defined networks
@@ -30,7 +30,6 @@ Then commit and push.
 * Design and implementation of application based routing using OpenFlow
 * Devoflow: Cost-effective flow management for high performance enterprise networks
 * DevoFlow: scaling flow management for high-performance networks
-* DevoFlow: Scaling flow management for high-performance networks
 * Enabling fast failure recovery in openflow networks
 * Enabling Future Internet Architecture Research and Experimentation by Using Software Defined Networking
 * Enabling Hardware Exploration in Software-Defined Networking: A Flexible, Portable OpenFlow Switch
@@ -48,7 +47,6 @@ Then commit and push.
 * High-fidelity switch models for software-defined network emulation
 * HotSwap: correct and efficient controller upgrades for software-defined networks
 * HyperFlow: a distributed control plane for OpenFlow
-* HyperFlow: A distributed control plane for OpenFlow
 * Implementing an OpenFlow switch on the NetFPGA platform
 * Implementing Layer 2 Network Virtualization Using OpenFlow: Challenges and Solutions
 * Improving network management with software defined networking
@@ -60,7 +58,6 @@ Then commit and push.
 * Modeling and performance evaluation of an OpenFlow architecture
 * NOX: towards an operating system for networks
 * On bringing private traffic into public SDN testbeds
-* On controller performance in software-defined networks
 * On controller performance in software-defined networks
 * OpenFlow-based server load balancing gone wild
 * OpenFlow: enabling innovation in campus networks
