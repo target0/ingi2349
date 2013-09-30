@@ -10,7 +10,7 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-## 93 articles
+## 95 articles
 * Abstractions for network update
 * A compiler and run-time system for network programming languages
 * A network in a laptop: rapid prototyping for software-defined networks
@@ -25,6 +25,7 @@ Then commit and push.
 * Can the production network be the testbed?
 * Cheap silicon: a myth or reality? picking the right data plane hardware for software defined networking
 * Composing software-defined networks
+* Consistent updates for software-defined networks: change you can believe in!
 * Design and implementation of a framework for software-defined middlebox networking
 * Design and implementation of application based routing using OpenFlow
 * Devoflow: Cost-effective flow management for high performance enterprise networks
@@ -46,6 +47,7 @@ Then commit and push.
 * Hierarchical policies for software defined networks
 * High-fidelity switch models for software-defined network emulation
 * HotSwap: correct and efficient controller upgrades for software-defined networks
+* HyperFlow: a distributed control plane for OpenFlow
 * HyperFlow: A distributed control plane for OpenFlow
 * Implementing an OpenFlow switch on the NetFPGA platform
 * Implementing Layer 2 Network Virtualization Using OpenFlow: Challenges and Solutions
