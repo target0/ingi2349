@@ -10,7 +10,7 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-## 88 articles
+## 93 articles
 * Abstractions for network update
 * A compiler and run-time system for network programming languages
 * A network in a laptop: rapid prototyping for software-defined networks
@@ -27,7 +27,9 @@ Then commit and push.
 * Composing software-defined networks
 * Design and implementation of a framework for software-defined middlebox networking
 * Design and implementation of application based routing using OpenFlow
+* Devoflow: Cost-effective flow management for high performance enterprise networks
 * DevoFlow: scaling flow management for high-performance networks
+* DevoFlow: Scaling flow management for high-performance networks
 * Enabling fast failure recovery in openflow networks
 * Enabling Future Internet Architecture Research and Experimentation by Using Software Defined Networking
 * Enabling Hardware Exploration in Software-Defined Networking: A Flexible, Portable OpenFlow Switch
@@ -44,6 +46,7 @@ Then commit and push.
 * Hierarchical policies for software defined networks
 * High-fidelity switch models for software-defined network emulation
 * HotSwap: correct and efficient controller upgrades for software-defined networks
+* HyperFlow: A distributed control plane for OpenFlow
 * Implementing an OpenFlow switch on the NetFPGA platform
 * Implementing Layer 2 Network Virtualization Using OpenFlow: Challenges and Solutions
 * Improving network management with software defined networking
@@ -55,6 +58,7 @@ Then commit and push.
 * Modeling and performance evaluation of an OpenFlow architecture
 * NOX: towards an operating system for networks
 * On bringing private traffic into public SDN testbeds
+* On controller performance in software-defined networks
 * On controller performance in software-defined networks
 * OpenFlow-based server load balancing gone wild
 * OpenFlow: enabling innovation in campus networks
@@ -70,6 +74,7 @@ Then commit and push.
 * Resource/accuracy tradeoffs in software-defined measurement
 * Revisiting routing control platforms with the eyes and muscles of software-defined networking
 * Revisiting traffic anomaly detection using software defined networking
+* Scalable flow-based networking with DIFANE
 * Scalable Network Virtualization in Software-Defined Networks
 * Scalable service deployment on software-defined networks
 * Scalable software defined network controllers
