@@ -38,6 +38,7 @@ Then commit and push.
 * Enabling Future Internet Architecture Research and Experimentation by Using Software Defined Networking
 * Enabling Hardware Exploration in Software-Defined Networking: A Flexible, Portable OpenFlow Switch
 * Enabling fast failure recovery in openflow networks
+* Experimental demonstration of OpenFlow control of packet and circuit switches
 * Exploiting locality in distributed SDN control
 * Fabric: a retrospective on evolving SDN
 * Fast, accurate simulation for SDN prototyping
@@ -52,6 +53,7 @@ Then commit and push.
 * Hierarchical policies for software defined networks
 * High-fidelity switch models for software-defined network emulation
 * HotSwap: correct and efficient controller upgrades for software-defined networks
+* HyperFlow: a distributed control plane for OpenFlow
 * HyperFlow: a distributed control plane for OpenFlow
 * Implementing Layer 2 Network Virtualization Using OpenFlow: Challenges and Solutions
 * Implementing an OpenFlow switch on the NetFPGA platform
@@ -70,6 +72,8 @@ Then commit and push.
 * On bringing private traffic into public SDN testbeds
 * On controller performance in software-defined networks
 * Open transport switch: a software defined networking architecture for transport networks
+* OpenFlow-based server load balancing gone wild
+* Openflow for wireless mesh networks
 * OpenFlow MPLS and the open source label switched router
 * OpenFlow MPLS and the open source label switched router
 * OpenFlow vulnerability assessment
@@ -120,6 +124,7 @@ Then commit and push.
 * Towards software-friendly networks
 * Tutorial: event-based systems meet software-defined networking
 * VeriFlow: verifying network-wide invariants in real time
+* Veriflow: verifying network-wide invariants in real time
 * Verifying forwarding plane connectivity and locating link failures using static rules in software defined networks
 * Virtual routers as a service: the RouteFlow approach leveraging software-defined networks
 * Wanted: systems abstractions for SDN

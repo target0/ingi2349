@@ -45,6 +45,7 @@ ingi2349
 * Enabling Future Internet Architecture Research and Experimentation by Using Software Defined Networking [DESIGN]
 * Enabling Hardware Exploration in Software-Defined Networking: A Flexible, Portable OpenFlow Switch [HARDWARE]
 * Enabling fast failure recovery in openflow networks [FAILURES]
+* Experimental demonstration of OpenFlow control of packet and circuit switches [TESTING]
 * Exploiting locality in distributed SDN control [DISTRIBUTED CONTROLLERS]
 * Fabric: a retrospective on evolving SDN [DESIGN]
 * Fast, accurate simulation for SDN prototyping [TOOLS]
@@ -77,6 +78,8 @@ ingi2349
 * On bringing private traffic into public SDN testbeds [DESIGN]
 * On controller performance in software-defined networks [?]
 * Open transport switch: a software defined networking architecture for transport networks [DESIGN]
+* OpenFlow-based server load balancing gone wild [PERFORMANCE]
+* Openflow for wireless mesh networks [DESIGN]
 * OpenFlow MPLS and the open source label switched router [HARDWARE]
 * OpenFlow MPLS and the open source label switched router
 * OpenFlow vulnerability assessment [SECURITY]
@@ -127,6 +130,7 @@ ingi2349
 * Towards software-friendly networks [SECURITY]
 * Tutorial: event-based systems meet software-defined networking [-]
 * VeriFlow: verifying network-wide invariants in real time [TESTING]
+* VeriFlow: verifying network-wide invariants in real time
 * Verifying forwarding plane connectivity and locating link failures using static rules in software defined networks [FAILUREs]
 * Virtual routers as a service: the RouteFlow approach leveraging software-defined networks [?]
 * Wanted: systems abstractions for SDN [MIDDLEBOXES]
