@@ -17,7 +17,7 @@ ingi2349
 * HARDWARE : A. SCHILS ; S. DEFAUW
 * MIDDLEBOXES : C. CASTERMANE
 
-## 115 articles
+## 119 articles
 * A NICE way to test openflow applications [TESTING]
 * A SOFT way for openflow switch interoperability testing [TESTING]
 * A SOFT way for openflow switch interoperability testing [TESTING]
