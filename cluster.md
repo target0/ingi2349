@@ -1,14 +1,20 @@
 ingi2349
 ========
 
-### Proposed process
+### CLUSTERING
 
-After adding your references, run
-
-    $ ./update_list.sh
-
-and check for duplicates in the list below.
-Then commit and push.
+(desole pour les noms :s)
+DESIGN : ?
+SECURITY : S. PARMENTIER ; J. BERGIERS ; J. HENRICOT
+TOOLS : P. NAUW ; A. MARCHAL
+PERFORMANCE : A. HEALEY ; C. WAYMERGH
+SINGLE CONTROLLERS : P-E DUMONT ; P. BOUILLIEZ
+DISTRIBUTED CONTROLLERS : R. CAPRON ; I. BRIQUEMONT
+FAILURES : O. TILMANS ; L. DEBROUX
+API/LANGUAGES : E. CRECIUN ; B. DALOZE ; D. MICHIELS
+TESTING : ?
+HARDWARE : A. SCHILS ; S. DEFAUW
+MIDDLEBOXES : C. CASTERMANE
 
 ## 115 articles
 * A NICE way to test openflow applications [TESTING]
