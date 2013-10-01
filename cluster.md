@@ -4,6 +4,7 @@ ingi2349
 ### CLUSTERING
 
 (desole pour les noms :s)
+
 DESIGN : ?
 SECURITY : S. PARMENTIER ; J. BERGIERS ; J. HENRICOT
 TOOLS : P. NAUW ; A. MARCHAL
