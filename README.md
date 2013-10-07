@@ -10,9 +10,10 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
-## 90 articles
+## 93 articles
 * A NICE way to test openflow applications
 * A SOFT way for openflow switch interoperability testing
+* A balance of power: expressive, analyzable controller programming
 * A compiler and run-time system for network programming languages
 * A network in a laptop: rapid prototyping for software-defined networks
 * A slick control plane for network middleboxes
@@ -22,6 +23,7 @@ Then commit and push.
 * Application-awareness in SDN
 * Attacking software-defined networks: a first feasibility study
 * Automatic failure recovery for software-defined networks
+* CAP for networks
 * Can the production network be the testbed?
 * Cheap silicon: a myth or reality? picking the right data plane hardware for software defined networking
 * Composing software-defined networks
@@ -68,6 +70,7 @@ Then commit and push.
 * Parallel simulation of software defined networks
 * Participatory networking: an API for application control of SDNs
 * Procera: a language for high-level reactive network control
+* Programming languages for programmable networks
 * Protocol-oblivious forwarding: unleash the power of SDN through a future-proof forwarding plane
 * Resource/accuracy tradeoffs in software-defined measurement
 * Revisiting routing control platforms with the eyes and muscles of software-defined networking
