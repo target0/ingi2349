@@ -20,7 +20,6 @@ ingi2349
 ## 119 articles
 * A NICE way to test openflow applications [TESTING]
 * A SOFT way for openflow switch interoperability testing [TESTING]
-* A SOFT way for openflow switch interoperability testing [TESTING]
 * A compiler and run-time system for network programming languages [API/LANGUAGES]
 * A network in a laptop: rapid prototyping for software-defined networks [TOOLS]
 * A security enforcement kernel for OpenFlow networks [SECURITY]
@@ -65,7 +64,6 @@ ingi2349
 * Implementing an OpenFlow switch on the NetFPGA platform [HARDWARE]
 * Improving network management with software defined networking [API/LANGUAGES]
 * Incremental SDN deployment in enterprise networks [DESIGN]
-* Incremental SDN deployment in enterprise networks
 * Incremental consistent updates [API/LANGUAGES]
 * Is your OpenFlow application correct? [TESTING]
 * Languages for software-defined networks [API/LANGUAGES]
@@ -80,12 +78,10 @@ ingi2349
 * Open transport switch: a software defined networking architecture for transport networks [DESIGN]
 * Openflow for wireless mesh networks [DESIGN]
 * OpenFlow MPLS and the open source label switched router [HARDWARE]
-* OpenFlow MPLS and the open source label switched router
 * OpenFlow vulnerability assessment [SECURITY]
 * OpenFlow-based server load balancing gone wild [DESIGN]
 * OpenFlow: Meeting carrier-grade recovery requirements [PERFORMANCE]
 * OpenFlow: The Next Generation of the Network? [DESIGN]
-* OpenFlow: The Next Generation of the Network?
 * OpenFlow: enabling innovation in campus networks [DESIGN]
 * OpenTM: traffic matrix estimator for OpenFlow networks [PERFORMANCE]
 * Openflow random host mutation: transparent moving target defense using software defined networking [SECURITY]
