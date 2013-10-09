@@ -10,7 +10,9 @@ After adding your references, run
 and check for duplicates in the list below.
 Then commit and push.
 
+## 126 articles
 * A NICE way to test openflow applications
+* A SOFT way for openflow switch interoperability testing
 * A SOFT way for openflow switch interoperability testing
 * A balance of power: expressive, analyzable controller programming
 * A compiler and run-time system for network programming languages
@@ -38,6 +40,7 @@ Then commit and push.
 * Enabling Future Internet Architecture Research and Experimentation by Using Software Defined Networking
 * Enabling Hardware Exploration in Software-Defined Networking: A Flexible, Portable OpenFlow Switch
 * Enabling fast failure recovery in openflow networks
+* Ensuring connectivity via data plane mechanisms
 * Experimental demonstration of OpenFlow control of packet and circuit switches
 * Exploiting locality in distributed SDN control
 * Fabric: a retrospective on evolving SDN
@@ -69,20 +72,21 @@ Then commit and push.
 * Maple: simplifying SDN programming using algorithmic policies
 * Modeling and performance evaluation of an OpenFlow architecture
 * NOX: towards an operating system for networks
+* Network architecture for joint failure recovery and traffic engineering
 * On bringing private traffic into public SDN testbeds
 * On controller performance in software-defined networks
 * Open transport switch: a software defined networking architecture for transport networks
-* OpenFlow-based server load balancing gone wild
-* Openflow for wireless mesh networks
 * OpenFlow MPLS and the open source label switched router
 * OpenFlow MPLS and the open source label switched router
 * OpenFlow vulnerability assessment
+* OpenFlow-based server load balancing gone wild
 * OpenFlow-based server load balancing gone wild
 * OpenFlow: Meeting carrier-grade recovery requirements
 * OpenFlow: The Next Generation of the Network?
 * OpenFlow: The Next Generation of the Network?
 * OpenFlow: enabling innovation in campus networks
 * OpenTM: traffic matrix estimator for OpenFlow networks
+* Openflow for wireless mesh networks
 * Openflow random host mutation: transparent moving target defense using software defined networking
 * Outsourcing the routing control logic: better internet routing based on SDN principles
 * Packet and circuit network convergence with OpenFlow
@@ -97,6 +101,7 @@ Then commit and push.
 * SDN Based Unified Control Architecture
 * SIMPLE-fying middlebox policy enforcement using SDN
 * Scalable Network Virtualization in Software-Defined Networks
+* Scalable fault management for OpenFlow
 * Scalable flow-based networking with DIFANE
 * Scalable service deployment on software-defined networks
 * Scalable software defined network controllers
