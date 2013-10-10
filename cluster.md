@@ -5,7 +5,7 @@ ingi2349
 
 (desole pour les noms :s)
 
-* DESIGN : ?
+* DESIGN : S.VILLAR ;
 * SECURITY : S. PARMENTIER ; J. BERGIERS ; J. HENRICOT
 * TOOLS : P. NAUW ; A. MARCHAL
 * PERFORMANCE : A. HEALEY ; C. WAYMERGH
@@ -27,7 +27,7 @@ ingi2349
 * ASIC: an architecture for scalable intra-domain control in OpenFlow [?]
 * Abstractions for network update [API/LANGUAGES]
 * An OpenFlow-based energy-efficient data center approach [DESIGN]
-* Application-awareness in SDN [?]
+* Application-awareness in SDN [API/LANGUAGES]
 * Attacking software-defined networks: a first feasibility study [SECURITY]
 * Automatic failure recovery for software-defined networks [FAILURES]
 * Automating the {T}esting of {O}pen{F}low {A}pplications [TESTING]
@@ -71,12 +71,12 @@ ingi2349
 * Leveraging SDN layering to systematically troubleshoot networks [TESTING]
 * Logic programming for software-defined networks [API/LANGUAGE]
 * Logically centralized?: state distribution trade-offs in software defined networks [DISTRIBUTED CONTROLLERS]
-* Maple: simplifying SDN programming using algorithmic policies [?]
+* Maple: simplifying SDN programming using algorithmic policies [TOOLS]
 * Modeling and performance evaluation of an OpenFlow architecture [PERFORMANCE]
 * NOX: towards an operating system for networks [SINGLE CONTROLLERS]
 * Network architecture for joint failure recovery and traffic engineering [FAILURES]
 * On bringing private traffic into public SDN testbeds [DESIGN]
-* On controller performance in software-defined networks [?]
+* On controller performance in software-defined networks [PERFORMANCE]
 * Open transport switch: a software defined networking architecture for transport networks [DESIGN]
 * Openflow for wireless mesh networks [DESIGN]
 * OpenFlow MPLS and the open source label switched router [HARDWARE]
