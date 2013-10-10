@@ -17,7 +17,7 @@ ingi2349
 * HARDWARE : A. SCHILS ; S. DEFAUW
 * MIDDLEBOXES : C. CASTERMANE
 
-## 119 articles
+## 116 articles
 * A NICE way to test openflow applications [TESTING]
 * A SOFT way for openflow switch interoperability testing [TESTING]
 * A compiler and run-time system for network programming languages [API/LANGUAGES]
@@ -93,7 +93,7 @@ ingi2349
 * Participatory networking: an API for application control of SDNs [SECURITY]
 * Procera: a language for high-level reactive network control [API/LANGUAGES]
 * Protocol-oblivious forwarding: unleash the power of SDN through a future-proof forwarding plane [HARDWARE]
-* Resource/accuracy tradeoffs in software-defined measurement [SINGLE CONTROLLERS]
+* Resource/accuracy tradeoffs in software-defined measurement [PERFORMANCE]
 * Revisiting routing control platforms with the eyes and muscles of software-defined networking [DISTRIBUTED CONTROLLERS]
 * Revisiting traffic anomaly detection using software defined networking [SECURITY]
 * SDN Based Unified Control Architecture [DESIGN]
